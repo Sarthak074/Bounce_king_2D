@@ -1,0 +1,29 @@
+[gd_scene load_steps=5 format=3 uid="uid://bbucl0l1ev6nk"]
+
+[ext_resource type="Texture2D" uid="uid://uvq30m4axrh" path="res://2 Background/Background.png" id="1_2a3c1"]
+[ext_resource type="Texture2D" uid="uid://dh8wvel14cii7" path="res://congo.png" id="2_rl21t"]
+[ext_resource type="Texture2D" uid="uid://olap2c2rluq4" path="res://restart (2).png" id="3_ekhnv"]
+[ext_resource type="Script" path="res://Restart(2).gd" id="4_65s6h"]
+
+[node name="last" type="Node2D"]
+
+[node name="Background" type="TextureRect" parent="."]
+offset_left = -15.0
+offset_top = -7.0
+offset_right = 1174.0
+offset_bottom = 660.0
+texture = ExtResource("1_2a3c1")
+metadata/_edit_group_ = true
+
+[node name="Congo" type="Sprite2D" parent="."]
+position = Vector2(587, 286)
+scale = Vector2(0.502678, 0.576583)
+texture = ExtResource("2_rl21t")
+
+[node name="Restart(2)" type="TouchScreenButton" parent="."]
+position = Vector2(442, 428)
+scale = Vector2(0.212389, 0.307074)
+texture_normal = ExtResource("3_ekhnv")
+script = ExtResource("4_65s6h")
+
+[connection signal="pressed" from="Restart(2)" to="Restart(2)" method="_on_pressed"]

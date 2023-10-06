@@ -1,0 +1,50 @@
+[gd_scene load_steps=5 format=3 uid="uid://cytp4uls3njyq"]
+
+[ext_resource type="Script" path="res://UI.gd" id="1_tpn28"]
+[ext_resource type="Texture2D" uid="uid://dlq4cta0yx2ew" path="res://left button (2).png" id="1_xui8g"]
+[ext_resource type="Texture2D" uid="uid://dsnc86es5te5t" path="res://right button (2).png" id="2_rxwik"]
+[ext_resource type="Texture2D" uid="uid://4hcle3u2j2vq" path="res://jump button (2).png" id="3_gowfb"]
+
+[node name="UI" type="CanvasLayer"]
+script = ExtResource("1_tpn28")
+
+[node name="Button" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="left" type="TouchScreenButton" parent="Button"]
+position = Vector2(14, 557)
+scale = Vector2(0.0699774, 0.060223)
+texture_normal = ExtResource("1_xui8g")
+action = "left"
+
+[node name="right" type="TouchScreenButton" parent="Button"]
+position = Vector2(15, 472)
+scale = Vector2(0.0629758, 0.0562984)
+texture_normal = ExtResource("2_rxwik")
+action = "right"
+
+[node name="jump" type="TouchScreenButton" parent="Button"]
+position = Vector2(1045, 558)
+scale = Vector2(0.0629322, 0.0554775)
+texture_normal = ExtResource("3_gowfb")
+action = "ui_accept"
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Control"]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Label" type="Label" parent="Control/VBoxContainer"]
+modulate = Color(0, 0, 0, 1)
+texture_filter = 3
+layout_mode = 2
+text = "Throphy: 0"

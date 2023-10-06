@@ -1,0 +1,130 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1696597589
+Area2D.gd::GDScript::-1::1689081777::0::1::::<>Area2D<>::
+bounce2 (2).png::CompressedTexture2D::4022640967385942568::1688963722::1688963769::1::::<><>::
+bounceking.gd::GDScript::-1::1688965821::0::1::::<>RigidBody2D<>::
+CharacterBody2D.gd::GDScript::-1::1689082422::0::1::::<>CharacterBody2D<>::
+congo.png::CompressedTexture2D::7720081926248779568::1689227671::1689227711::1::::<><>::
+door2.gd::GDScript::-1::1689138522::0::1::::<>Area2D<>::
+door3.gd::GDScript::-1::1689142198::0::1::::<>Area2D<>::
+door4.gd::GDScript::-1::1689225406::0::1::::<>Area2D<>::
+door5.gd::GDScript::-1::1689228233::0::1::::<>Area2D<>::
+door.gd::GDScript::-1::1689138449::0::1::::<>Area2D<>::
+exit (2).png::CompressedTexture2D::3180860539521917054::1689225197::1689226405::1::::<><>::
+Exit(2).gd::GDScript::-1::1689227282::0::1::::<>TouchScreenButton<>::
+global.gd::GDScript::-1::1688986339::0::1::::<>Node<>::
+Icon43.png::CompressedTexture2D::2447848934369156891::1688982526::1688982531::1::::<><>::
+icon.svg::CompressedTexture2D::5093126218013023773::1688960474::1688960482::1::::<><>::
+jump button (2).png::CompressedTexture2D::2050068441792943806::1689049573::1689049660::1::::<><>::
+last.tscn::PackedScene::2498039491394945960::1695531736::0::1::::<><>::uid://uvq30m4axrh::::res://2 Background/Background.png<>uid://dh8wvel14cii7::::res://congo.png<>uid://olap2c2rluq4::::res://restart (2).png<>res://Restart(2).gd
+left button (2).png::CompressedTexture2D::7966134738653198818::1689049637::1689049660::1::::<><>::
+level_2.tscn::PackedScene::7071408829706296343::1695531735::0::1::::<><>::uid://uvq30m4axrh::::res://2 Background/Background.png<>uid://dw0gmv7t8fbh7::::res://1 Tiles/IndustrialTile_26.png<>res://door2.gd<>uid://0imf5pwqwsgc::::res://1 Tiles/IndustrialTile_54.png<>uid://df2lp8jpu7jl5::::res://1 Tiles/IndustrialTile_71.png<>uid://d272mjlutwjfr::::res://1 Tiles/IndustrialTile_68.png<>res://Throphy.gd<>uid://ba40yj0nk4po2::::res://Icon43.png<>uid://cytp4uls3njyq::::res://UI.tscn<>res://CharacterBody2D.gd<>uid://bxkukrhvn08i3::::res://bounce2 (2).png<>res://Area2D.gd<>uid://jr5ifl1quug8::::res://thorn 1 (2).png
+level_3.tscn::PackedScene::6515817468983940445::1695531735::0::1::::<><>::uid://uvq30m4axrh::::res://2 Background/Background.png<>uid://bsii3k6ks3cho::::res://1 Tiles/IndustrialTile_23.png<>res://door3.gd<>uid://0imf5pwqwsgc::::res://1 Tiles/IndustrialTile_54.png<>uid://c5lfxrd00kba7::::res://1 Tiles/IndustrialTile_58.png<>uid://yoxbegib0i7k::::res://1 Tiles/IndustrialTile_47.png<>res://CharacterBody2D.gd<>uid://bxkukrhvn08i3::::res://bounce2 (2).png<>res://Throphy.gd<>uid://ba40yj0nk4po2::::res://Icon43.png<>uid://cytp4uls3njyq::::res://UI.tscn<>res://Area2D.gd<>uid://jr5ifl1quug8::::res://thorn 1 (2).png
+level_4.tscn::PackedScene::4506149817017727164::1695531736::0::1::::<><>::uid://dteqyf4oy74ye::::res://1 Tiles/IndustrialTile_20.png<>uid://x4hjkb2cx6wl::::res://1 Tiles/IndustrialTile_19.png<>uid://uvq30m4axrh::::res://2 Background/Background.png<>uid://fsnlhrqaml7p::::res://1 Tiles/IndustrialTile_62.png<>uid://0imf5pwqwsgc::::res://1 Tiles/IndustrialTile_54.png<>res://door4.gd<>res://CharacterBody2D.gd<>uid://bxkukrhvn08i3::::res://bounce2 (2).png<>uid://cytp4uls3njyq::::res://UI.tscn<>res://Throphy.gd<>uid://ba40yj0nk4po2::::res://Icon43.png<>res://Area2D.gd<>uid://jr5ifl1quug8::::res://thorn 1 (2).png
+level_5.tscn::PackedScene::2824341812899372336::1695531736::0::1::::<><>::uid://uvq30m4axrh::::res://2 Background/Background.png<>uid://0imf5pwqwsgc::::res://1 Tiles/IndustrialTile_54.png<>res://door5.gd<>uid://d0txigkofsfa::::res://1 Tiles/IndustrialTile_36.png<>uid://dcjjc1mu2d5ik::::res://1 Tiles/IndustrialTile_11.png<>uid://bm04yhmbr1ntg::::res://1 Tiles/IndustrialTile_03.png<>res://Area2D.gd<>uid://jr5ifl1quug8::::res://thorn 1 (2).png<>res://Throphy.gd<>uid://ba40yj0nk4po2::::res://Icon43.png<>res://CharacterBody2D.gd<>uid://bxkukrhvn08i3::::res://bounce2 (2).png<>uid://cytp4uls3njyq::::res://UI.tscn
+logo.png::CompressedTexture2D::6340120525289559154::1689226278::1689226405::1::::<><>::
+main_menu.tscn::PackedScene::2947525242966768208::1695531735::0::1::::<><>::uid://uvq30m4axrh::::res://2 Background/Background.png<>uid://cwlg4gyij6jf3::::res://logo.png<>uid://f4g7qmtm6r7i::::res://TITLE.png<>uid://bwxmykwwbhbd0::::res://start (2).png<>uid://blk3kqpv0dlri::::res://exit (2).png<>res://Start(2).gd<>res://Exit(2).gd
+node_2d.gd::GDScript::-1::1689142705::0::1::::<>Node2D<>::
+node_2d.tscn::PackedScene::6636878833853362328::1695531735::0::1::::<><>::res://CharacterBody2D.gd<>uid://uvq30m4axrh::::res://2 Background/Background.png<>res://node_2d.gd<>uid://bxkukrhvn08i3::::res://bounce2 (2).png<>uid://bsii3k6ks3cho::::res://1 Tiles/IndustrialTile_23.png<>uid://bqjy8xp42v627::::res://1 Tiles/IndustrialTile_25.png<>uid://dw0gmv7t8fbh7::::res://1 Tiles/IndustrialTile_26.png<>uid://ba40yj0nk4po2::::res://Icon43.png<>uid://0imf5pwqwsgc::::res://1 Tiles/IndustrialTile_54.png<>res://door.gd<>res://Throphy.gd<>uid://cytp4uls3njyq::::res://UI.tscn
+restart (2).png::CompressedTexture2D::1005380175605677269::1689225133::1689226405::1::::<><>::
+Restart(2).gd::GDScript::-1::1689228013::0::1::::<>TouchScreenButton<>::
+right button (2).png::CompressedTexture2D::8449680147812809943::1689049611::1689049660::1::::<><>::
+start (2).png::CompressedTexture2D::3978827955260494091::1689225163::1689226405::1::::<><>::
+Start(2).gd::GDScript::-1::1689226878::0::1::::<>TouchScreenButton<>::
+TH.gd::GDScript::-1::1689007011::0::1::::<>RefCounted<>::
+TH.tscn::PackedScene::2115395569987139315::1688989528::0::1::::<><>::
+thorn 1 (2).png::CompressedTexture2D::668630091508651869::1689081074::1689081139::1::::<><>::
+thorn 2 (2).png::CompressedTexture2D::422616209639608838::1689081105::1689081139::1::::<><>::
+Throphy.gd::GDScript::-1::1689142530::0::1::::<>Area2D<>::
+TITLE.png::CompressedTexture2D::411233480211254436::1689225554::1689226405::1::::<><>::
+UI.gd::GDScript::-1::1689053602::0::1::::<>CanvasLayer<>::
+UI.tscn::PackedScene::6497560403256482700::1689142682::0::1::::<><>::res://UI.gd<>uid://dlq4cta0yx2ew
+::res://1 Tiles/::1688976546
+IndustrialTile_01.png::CompressedTexture2D::6133869770686633437::1688976541::1688976546::1::::<><>::
+IndustrialTile_02.png::CompressedTexture2D::7161929457876688810::1688976541::1688976546::1::::<><>::
+IndustrialTile_03.png::CompressedTexture2D::3282100289315223744::1688976541::1688976546::1::::<><>::
+IndustrialTile_04.png::CompressedTexture2D::7673792215353807597::1688976541::1688976546::1::::<><>::
+IndustrialTile_05.png::CompressedTexture2D::3973753974260200743::1688976541::1688976546::1::::<><>::
+IndustrialTile_06.png::CompressedTexture2D::4044332602667757349::1688976541::1688976546::1::::<><>::
+IndustrialTile_07.png::CompressedTexture2D::4855898602661575461::1688976541::1688976546::1::::<><>::
+IndustrialTile_08.png::CompressedTexture2D::8952370401797630831::1688976541::1688976546::1::::<><>::
+IndustrialTile_09.png::CompressedTexture2D::4295937303987052487::1688976541::1688976546::1::::<><>::
+IndustrialTile_10.png::CompressedTexture2D::4122511845706375717::1688976541::1688976546::1::::<><>::
+IndustrialTile_11.png::CompressedTexture2D::7318770547754313050::1688976541::1688976546::1::::<><>::
+IndustrialTile_12.png::CompressedTexture2D::8887924432708603928::1688976541::1688976546::1::::<><>::
+IndustrialTile_13.png::CompressedTexture2D::140438033601143330::1688976541::1688976546::1::::<><>::
+IndustrialTile_14.png::CompressedTexture2D::2429543943652966320::1688976541::1688976546::1::::<><>::
+IndustrialTile_15.png::CompressedTexture2D::615099630214531935::1688976541::1688976546::1::::<><>::
+IndustrialTile_16.png::CompressedTexture2D::6130135530993158106::1688976542::1688976546::1::::<><>::
+IndustrialTile_17.png::CompressedTexture2D::6689455965351192603::1688976542::1688976546::1::::<><>::
+IndustrialTile_18.png::CompressedTexture2D::462978416149380041::1688976542::1688976546::1::::<><>::
+IndustrialTile_19.png::CompressedTexture2D::1674651977645663211::1688976542::1688976546::1::::<><>::
+IndustrialTile_20.png::CompressedTexture2D::8502122230241677352::1688976542::1688976546::1::::<><>::
+IndustrialTile_21.png::CompressedTexture2D::4138439004158089054::1688976542::1688976546::1::::<><>::
+IndustrialTile_22.png::CompressedTexture2D::1993749237153547417::1688976542::1688976546::1::::<><>::
+IndustrialTile_23.png::CompressedTexture2D::3666871202983580676::1688976542::1688976546::1::::<><>::
+IndustrialTile_24.png::CompressedTexture2D::8891165258022923363::1688976542::1688976546::1::::<><>::
+IndustrialTile_25.png::CompressedTexture2D::3529538953277103978::1688976542::1688976546::1::::<><>::
+IndustrialTile_26.png::CompressedTexture2D::8755412939782631978::1688976542::1688976546::1::::<><>::
+IndustrialTile_27.png::CompressedTexture2D::8439925861429408829::1688976542::1688976546::1::::<><>::
+IndustrialTile_28.png::CompressedTexture2D::4336434993754230930::1688976542::1688976546::1::::<><>::
+IndustrialTile_29.png::CompressedTexture2D::6501827210880832499::1688976542::1688976546::1::::<><>::
+IndustrialTile_30.png::CompressedTexture2D::3658454547013089917::1688976542::1688976546::1::::<><>::
+IndustrialTile_31.png::CompressedTexture2D::3616589185405135312::1688976542::1688976546::1::::<><>::
+IndustrialTile_32.png::CompressedTexture2D::4956893631543462965::1688976542::1688976546::1::::<><>::
+IndustrialTile_33.png::CompressedTexture2D::805946165885037751::1688976542::1688976546::1::::<><>::
+IndustrialTile_34.png::CompressedTexture2D::1565625759030093261::1688976542::1688976546::1::::<><>::
+IndustrialTile_35.png::CompressedTexture2D::2631386375046651757::1688976542::1688976546::1::::<><>::
+IndustrialTile_36.png::CompressedTexture2D::263371100816875066::1688976542::1688976546::1::::<><>::
+IndustrialTile_37.png::CompressedTexture2D::8943967930461320696::1688976542::1688976546::1::::<><>::
+IndustrialTile_38.png::CompressedTexture2D::5023407560491009931::1688976542::1688976546::1::::<><>::
+IndustrialTile_39.png::CompressedTexture2D::8593039751260191060::1688976542::1688976546::1::::<><>::
+IndustrialTile_40.png::CompressedTexture2D::2679293068905530722::1688976542::1688976546::1::::<><>::
+IndustrialTile_41.png::CompressedTexture2D::2503441934201823905::1688976542::1688976546::1::::<><>::
+IndustrialTile_42.png::CompressedTexture2D::5134690963977102881::1688976542::1688976546::1::::<><>::
+IndustrialTile_43.png::CompressedTexture2D::1066377665897300673::1688976542::1688976546::1::::<><>::
+IndustrialTile_44.png::CompressedTexture2D::3879452663638716210::1688976542::1688976546::1::::<><>::
+IndustrialTile_45.png::CompressedTexture2D::1681420499666578595::1688976542::1688976546::1::::<><>::
+IndustrialTile_46.png::CompressedTexture2D::5312748043967537137::1688976542::1688976546::1::::<><>::
+IndustrialTile_47.png::CompressedTexture2D::1714832032225187394::1688976542::1688976546::1::::<><>::
+IndustrialTile_48.png::CompressedTexture2D::105186566998345376::1688976542::1688976546::1::::<><>::
+IndustrialTile_49.png::CompressedTexture2D::3056328639371678604::1688976542::1688976546::1::::<><>::
+IndustrialTile_50.png::CompressedTexture2D::2717603898758141480::1688976542::1688976546::1::::<><>::
+IndustrialTile_51.png::CompressedTexture2D::2386773577627159990::1688976542::1688976546::1::::<><>::
+IndustrialTile_52.png::CompressedTexture2D::3601710503374531589::1688976542::1688976546::1::::<><>::
+IndustrialTile_53.png::CompressedTexture2D::8355289422778615797::1688976542::1688976546::1::::<><>::
+IndustrialTile_54.png::CompressedTexture2D::1771975245760426822::1688976542::1688976546::1::::<><>::
+IndustrialTile_55.png::CompressedTexture2D::641424208162818164::1688976542::1688976546::1::::<><>::
+IndustrialTile_56.png::CompressedTexture2D::3465967119899783440::1688976542::1688976546::1::::<><>::
+IndustrialTile_57.png::CompressedTexture2D::7977391407325124803::1688976543::1688976546::1::::<><>::
+IndustrialTile_58.png::CompressedTexture2D::6901560388746530020::1688976543::1688976545::1::::<><>::
+IndustrialTile_59.png::CompressedTexture2D::4414321108895385397::1688976543::1688976545::1::::<><>::
+IndustrialTile_60.png::CompressedTexture2D::7240183307142061554::1688976543::1688976545::1::::<><>::
+IndustrialTile_61.png::CompressedTexture2D::4982942065471332637::1688976543::1688976545::1::::<><>::
+IndustrialTile_62.png::CompressedTexture2D::388912377054734107::1688976543::1688976545::1::::<><>::
+IndustrialTile_63.png::CompressedTexture2D::326704868340128609::1688976543::1688976545::1::::<><>::
+IndustrialTile_64.png::CompressedTexture2D::6730037019325229200::1688976543::1688976545::1::::<><>::
+IndustrialTile_65.png::CompressedTexture2D::1689582797192913719::1688976543::1688976545::1::::<><>::
+IndustrialTile_66.png::CompressedTexture2D::5525686178299733251::1688976543::1688976546::1::::<><>::
+IndustrialTile_67.png::CompressedTexture2D::3996454397219069049::1688976543::1688976546::1::::<><>::
+IndustrialTile_68.png::CompressedTexture2D::9122082196405617663::1688976543::1688976546::1::::<><>::
+IndustrialTile_69.png::CompressedTexture2D::8853582862102280825::1688976543::1688976546::1::::<><>::
+IndustrialTile_70.png::CompressedTexture2D::973367306943992641::1688976543::1688976546::1::::<><>::
+IndustrialTile_71.png::CompressedTexture2D::7566640890341404696::1688976543::1688976546::1::::<><>::
+IndustrialTile_72.png::CompressedTexture2D::3652728010320161347::1688976543::1688976546::1::::<><>::
+IndustrialTile_73.png::CompressedTexture2D::6667108519812120155::1688976543::1688976546::1::::<><>::
+IndustrialTile_74.png::CompressedTexture2D::4161745549866296619::1688976543::1688976546::1::::<><>::
+IndustrialTile_75.png::CompressedTexture2D::103103028844743065::1688976543::1688976546::1::::<><>::
+IndustrialTile_76.png::CompressedTexture2D::365091892097725918::1688976543::1688976546::1::::<><>::
+IndustrialTile_77.png::CompressedTexture2D::2555473098585895913::1688976543::1688976546::1::::<><>::
+IndustrialTile_78.png::CompressedTexture2D::6816029380274425614::1688976543::1688976546::1::::<><>::
+IndustrialTile_79.png::CompressedTexture2D::4052030046555267050::1688976543::1688976546::1::::<><>::
+IndustrialTile_80.png::CompressedTexture2D::1462405954428438647::1688976543::1688976546::1::::<><>::
+IndustrialTile_81.png::CompressedTexture2D::4730650995708528900::1688976543::1688976546::1::::<><>::
+::res://2 Background/::1688976546
+1.png::CompressedTexture2D::6705317266289414308::1688976541::1688976546::1::::<><>::
+2.png::CompressedTexture2D::192377966245434692::1688976541::1688976546::1::::<><>::
+3.png::CompressedTexture2D::3816982954609325437::1688976541::1688976546::1::::<><>::
+4.png::CompressedTexture2D::5451954118786786465::1688976541::1688976546::1::::<><>::
+5.png::CompressedTexture2D::494737132365441690::1688976541::1688976546::1::::<><>::
+Background.png::CompressedTexture2D::42592694489690037::1688976541::1688976546::1::::<><>::

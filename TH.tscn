@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://5eyix528go56"]
+
+[node name="TH" type="CanvasLayer"]
+
+[node name="Throphy" type="Label" parent="."]
+modulate = Color(0, 0, 0, 1)
+texture_filter = 3
+offset_right = 40.0
+offset_bottom = 23.0
+text = "Trophy: 0"

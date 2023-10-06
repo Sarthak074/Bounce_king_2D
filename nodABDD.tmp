@@ -1,0 +1,35 @@
+[gd_scene load_steps=4 format=3 uid="uid://c1s7oo8yttkg3"]
+
+[ext_resource type="Script" path="res://CharacterBody2D.gd" id="1_1r67t"]
+[ext_resource type="Texture2D" uid="uid://bxkukrhvn08i3" path="res://bounce2 (2).png" id="2_ew84w"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_rc32h"]
+size = Vector2(1156, 58)
+
+[node name="Node2D" type="Node2D"]
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+position = Vector2(0, 585)
+metadata/_edit_group_ = true
+
+[node name="ColorRect" type="ColorRect" parent="StaticBody2D"]
+offset_right = 1156.0
+offset_bottom = 60.0
+color = Color(0.0980392, 1, 0.184314, 1)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+position = Vector2(577, 28)
+shape = SubResource("RectangleShape2D_rc32h")
+
+[node name="CharacterBody2D" type="CharacterBody2D" parent="."]
+position = Vector2(68, 551)
+script = ExtResource("1_1r67t")
+metadata/_edit_group_ = true
+
+[node name="Sprite2D" type="Sprite2D" parent="CharacterBody2D"]
+position = Vector2(0, 1.43051e-06)
+scale = Vector2(0.0770958, 0.059816)
+texture = ExtResource("2_ew84w")
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="CharacterBody2D"]
+polygon = PackedVector2Array(-19, -25, -16, -25, -15, -25, -14, -23, -14, -23, -12, -22, -9, -20, -8, -19, -6, -23, -4, -27, 0, -27, 1, -24, 3, -22, 3, -21, 4, -20, 5, -21, 8, -22, 11, -23, 14, -24, 16, -25, 17, -23, 18, -20, 17, -18, 16, -15, 15, -10, 15, -5, 18, -3, 21, 0, 21, 1, 23, 2, 24, 3, 24, 5, 24, 7, 24, 11, 23, 14, 21, 18, 19, 20, 14, 24, 10, 25, 4, 27, -5, 27, -11, 25, -18, 22, -24, 15, -25, 7, -22, 0, -18, -4, -16, -6, -18, -12, -19, -19, -20, -23, -20, -25)

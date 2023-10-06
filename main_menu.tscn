@@ -1,0 +1,44 @@
+[gd_scene load_steps=8 format=3 uid="uid://bh82ksqw7fk3i"]
+
+[ext_resource type="Texture2D" uid="uid://uvq30m4axrh" path="res://2 Background/Background.png" id="1_7unyg"]
+[ext_resource type="Texture2D" uid="uid://cwlg4gyij6jf3" path="res://logo.png" id="2_6dhjn"]
+[ext_resource type="Texture2D" uid="uid://f4g7qmtm6r7i" path="res://TITLE.png" id="3_po4hi"]
+[ext_resource type="Texture2D" uid="uid://bwxmykwwbhbd0" path="res://start (2).png" id="4_sbap0"]
+[ext_resource type="Texture2D" uid="uid://blk3kqpv0dlri" path="res://exit (2).png" id="5_6likv"]
+[ext_resource type="Script" path="res://Start(2).gd" id="5_rym1w"]
+[ext_resource type="Script" path="res://Exit(2).gd" id="7_iaylu"]
+
+[node name="MainMenu" type="Node2D"]
+
+[node name="Background" type="TextureRect" parent="."]
+offset_left = -9.0
+offset_top = -8.0
+offset_right = 1164.0
+offset_bottom = 653.0
+texture = ExtResource("1_7unyg")
+metadata/_edit_group_ = true
+
+[node name="Logo" type="Sprite2D" parent="."]
+position = Vector2(593.75, 159.125)
+scale = Vector2(0.24026, 0.210135)
+texture = ExtResource("2_6dhjn")
+
+[node name="Title" type="Sprite2D" parent="."]
+position = Vector2(599.75, 37.125)
+scale = Vector2(0.259476, 0.242203)
+texture = ExtResource("3_po4hi")
+
+[node name="Start(2)" type="TouchScreenButton" parent="."]
+position = Vector2(397.75, 261.125)
+scale = Vector2(0.362263, 0.415848)
+texture_normal = ExtResource("4_sbap0")
+script = ExtResource("5_rym1w")
+
+[node name="Exit(2)" type="TouchScreenButton" parent="."]
+position = Vector2(420.75, 419.125)
+scale = Vector2(0.42698, 0.374258)
+texture_normal = ExtResource("5_6likv")
+script = ExtResource("7_iaylu")
+
+[connection signal="pressed" from="Start(2)" to="Start(2)" method="_on_pressed"]
+[connection signal="pressed" from="Exit(2)" to="Exit(2)" method="_on_pressed"]
